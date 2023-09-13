@@ -37,11 +37,19 @@ To deploy this project run
 
 run the index.html file in your browser
 
+
 ## Additonal info
 Heres a link to a detailed overview of the project technologies
 
-
-
 https://docs.google.com/document/d/1oIb7y3vXgZiVKawOqzpLViEtWK_DF55xrumVKnhSy0M/edit?usp=sharing
+
+
+# About the author
+checkout what inspired the author of this project to actualize it;
+
+https://wilsonsportfolio.netlify.app/
+
+
+
 
 
